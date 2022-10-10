@@ -1,12 +1,12 @@
 {
-    "name": "VIHANA MD",
+    "name": "SACHIYA MD",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
-    "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
+    "logo": "https://i.imgur.com/XHhlqtK.jpeg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
   
-"WELCOME_AND_GOODBYE" :{
+"වෙල්කම් & බායි" :{
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
     "required" : true,
   "value" : "true"
