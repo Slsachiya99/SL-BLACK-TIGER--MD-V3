@@ -80,3 +80,13 @@
 * [`AflahXrd`](https://github.com/nexusNw)
 * [`MR.Nima`](https://github.com/DarkMakerofc)
 * [`EDM-OFFICIAL`](https://github.com/edm-official)
+
+
+
+
+
+
+<img src="https://i.imgur.com/XHhlqtK.jpeg"
+     
+     
+     ❊𝐁𝐋𝐀𝐂𝐊 𝐓𝐈𝐆𝐄𝐑 𝐌𝐃 𝐁𝐎𝐓❊
