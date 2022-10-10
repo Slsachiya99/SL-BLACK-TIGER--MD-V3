@@ -29,7 +29,7 @@
    
    ```Thanks Fro using SACHIYA MD```
 
-## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
+## Thanks To : [`𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃`](https://github.com/zim-bot/zimbot-v4)
 
 # Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
