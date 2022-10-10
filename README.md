@@ -49,7 +49,7 @@
 
   <p align="center">
 
-<a href="#"><img title="SachiyaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Sachiya MD" src="https://img.shields.io/badge/Sachiya-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
