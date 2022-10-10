@@ -77,7 +77,7 @@
   "value" : "false"
     },
       
-"onlygroup" :{
+"ගෘප් පමනක්නම් " :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
   "value" : "false"
@@ -89,28 +89,28 @@
   "value" : "true"
     },
       
-"OWNER_REACT_EMOJI" :{
+"ඔනවර් ඉමොජි" :{
     "description" : "TYPE ANY EMOJI TO OWNER REACT",
     "required" : true,
-  "value" : "🧑"
+  "value" : "♲"
     },
       
-"REACT_NUMBER" :{
+"බොට් නම්බර්" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
   "value" : "947634278433"
     },
       
-"OWNER_NUMBER" :{
+"ඔනවර් නම්බර් 1" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "94767233346"
     },
       
-"OWNER_NUMBER2" :{
+"ඔනවර් නම්බර් 2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "94767233346"
     },
     
 "BOT_NAME" :{
@@ -119,43 +119,43 @@
   "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
     },
       
-"OWNER_NAME" :{
+"ඔනවර් නෙම්" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
   "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
     },
       
-"GROUP_LINK" :{
+"ගෘප් ලින්ක් 1" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
   "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
 },
       
-  "GROUP_LINK2" :{
+  "ගෘප් ලින්ක් 2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
   "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
 },
     
-"PACK_NAME" :{
+"බොට් නෙම් 1" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "STICKER BY SACHIYA MD"
 },
   
-"CAP_NAME" :{
+"බොට් නෙම් 2" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY SACHIYA  MD*"
 },
     
-"IMG_URL" :{
+"ඉමෙජ් ලින්ක් " :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
   "value" : "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
 },
   
-  "YT_URL" :{
+  "YT ලින්ක්" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
     "required" : true,
     "value" :"https://youtu.be/Z9rIR0Vopb8"
