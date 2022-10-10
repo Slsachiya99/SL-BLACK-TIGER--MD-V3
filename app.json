@@ -17,7 +17,7 @@
     "required" : true,
   "value" : "true"
     },
-                "INBOXBLOCK" :{
+                "ඉන්බොස් බ්ලොක්" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
   "value" : "false"
@@ -35,43 +35,43 @@
   "value" : "false"
     },
        
-                                        "ANTILINK" :{
+                                        "ඇන්ටි ලින්ක්" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
   "value" : "false"
     },
         
-"GROUP_ONLY_MSG" :{
+"ගෘප් මැසෙජ් " :{
     "description" : "TYPE ONLY GROUP MSG",
     "required" : true,
   "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf*"
     },
         
-        "WELCOME_MSG" :{
+        "වෙල්කම් මැසෙජ්" :{
     "description" : "TYPE WELCOME MSG",
     "required" : true,
   "value" : "*HELLO WELCOME TO OUR GROUP*"
     },
   
-                "BYE_MSG" :{
+                "බ්ලොක්ක් මැසෙජ්" :{
     "description" : "TYPE BYE MSG",
     "required" : true,
   "value" : "*BYE BRO*"
     },
         
-        "ALIVE_MSG" :{
+        "අලෙවු ලොගො ලින්ක්" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
   "value" : "*IM ALIVE NOW*"
     },
         
-"CALL_BLOCK" :{
+"කොල් බ්ලොක්" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
   "value" : "false"
     },
       
-"AUTO_BLOCK212" :{
+"ඔටො බ්ලොක් 212" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
   "value" : "false"
